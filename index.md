@@ -1,7 +1,7 @@
 # It-is-Moist
 #### Moisture Detector
 
-# Current Progress Update (Date: 11/27/2017)
+# Progress Update (Date: 11/27/2017)
 - All components aquired and recieved
 - Components tested and functioning
 - Raspberry Pi OS setup
