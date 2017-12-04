@@ -1,6 +1,10 @@
 # It-is-Moist
 #### Moisture Detector
 
+# PCB Complete and Operational
+![alt text](It-is-Moist/IMG_20171204_125634.jpg)
+
+
 # Progress Update (Date: 11/27/2017)
 - All components aquired and recieved
 - Components tested and functioning
