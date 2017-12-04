@@ -2,7 +2,7 @@
 #### Moisture Detector
 
 # PCB Complete and Operational
-![alt text](It-is-Moist/IMG_20171204_125634.jpg)
+![alt text](https://raw.githubusercontent.com/V-Socrates/It-is-Moist/master/IMG_20171204_125634.jpg)
 
 
 # Progress Update (Date: 11/27/2017)
