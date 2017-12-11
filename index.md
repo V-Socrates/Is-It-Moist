@@ -2,7 +2,7 @@
 #### Moisture Detector
 
 ## Build Video Script Completed
-It-is-Moist/Is-It-Moist Build Video Script.md
+[Build Video Script]: It-is-Moist/Is-It-Moist Build Video Script.md
 
 ## PCB Complete and Operational
 ![alt text](https://raw.githubusercontent.com/V-Socrates/It-is-Moist/master/IMG_20171204_125634.jpg)
