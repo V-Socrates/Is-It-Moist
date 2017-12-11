@@ -4,6 +4,8 @@
 ## Build Video Script and Placard Completed (Date: 12/11/2017)
 [Build Video Script](https://github.com/V-Socrates/It-is-Moist/blob/master/Is-It-Moist%20Build%20Video%20Script.md)
 
+![alt text](https://n01147386.github.io/CENG317/images/raspiguard_placard.jpg)
+
 ## PCB Complete and Operational (Date: 12/4/2017)
 ![alt text](https://raw.githubusercontent.com/V-Socrates/It-is-Moist/master/IMG_20171204_125634.jpg)
 
