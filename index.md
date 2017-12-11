@@ -1,6 +1,9 @@
 # It-is-Moist
 #### Moisture Detector
 
+# Build Video Script Completed
+
+
 # PCB Complete and Operational
 ![alt text](https://raw.githubusercontent.com/V-Socrates/It-is-Moist/master/IMG_20171204_125634.jpg)
 
