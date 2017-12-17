@@ -1,6 +1,9 @@
 # It-is-Moist
 #### Moisture Detector
 
+## Build Video Complete (Date: 12/16/2017)
+[![Is It Moist - Build Video](http://img.youtube.com/vi/04oMf6sRMBU/0.jpg)](https://www.youtube.com/watch?v=04oMf6sRMBU "Is It Moist - Build Video")
+
 ## Build Video Script and Placard Completed (Date: 12/11/2017)
 [Build Video Script](https://github.com/V-Socrates/It-is-Moist/blob/master/Is-It-Moist%20Build%20Video%20Script.md)
 
