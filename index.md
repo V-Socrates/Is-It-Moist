@@ -1,5 +1,5 @@
-# It is Moist
-#### Moisture Detector
+# `It is Moist` 
+###### `Moisture Detector`
 
 ## Current Progress Report (Date: 1/8/2018)
 ![alt text](https://github.com/V-Socrates/It-is-Moist/blob/master/Documentation/IMAGES/Progress%20Report.jpg)
