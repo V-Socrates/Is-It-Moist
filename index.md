@@ -27,7 +27,7 @@
 - Currently working on prototype housing
 
 ## Order Comfirmation (Date: 10/3/2017)
-![alt text](https://raw.githubusercontent.com/V-Socrates/It-is-Moist/master/Documentation/IMAGES/Order%20Details.JPG)
+![alt text](https://raw.githubusercontent.com/V-Socrates/It-is-Moist/master/Documentation/IMAGES/Order%20Details.jpg)
 
 ## Budget Created (Date: 10/2/2017)
 ![alt text](https://raw.githubusercontent.com/V-Socrates/It-is-Moist/master/Documentation/IMAGES/Budget.jpg)
