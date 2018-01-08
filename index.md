@@ -1,4 +1,4 @@
-# `It is Moist` 
+# `It is Moist`
 ###### `Moisture Detector`
 
 ## Current Progress Report (Date: 1/8/2018)
