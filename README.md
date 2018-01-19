@@ -29,9 +29,8 @@ Is It Moist is a simple moisture sensor using a Raspberry Pi 3.
 * [HDMI Cable](https://raw.githubusercontent.com/V-Socrates/It-is-Moist/master/Documentation/IMAGES-VIDEOS/Build%20Related/HDMI%20Cable.jpg)
 
 #### Software
-* Rasbian OS (Currently Using Stretch 2017-11-29)
+* [Rasbian OS (Currently Using Stretch 2017-11-29)](https://drive.google.com/file/d/1Ecotum-11qHcblA57sbwOcbmJJJ9XkQF/view?usp=sharing)
 * Etcher
-* Teamviewer
 
 ### Hardware Assembly
 
