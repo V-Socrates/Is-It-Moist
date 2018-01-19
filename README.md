@@ -13,9 +13,9 @@
 
 
 ### Description
+Is It Moist is a simple moisture sensor using a Raspberry Pi 3.
 
 ### Required Hardware / Software
-
 #### Hardware
 * Raspberry Pi 3 Model B
 * Raspberry Pi Power Adapter
