@@ -24,6 +24,9 @@ Is It Moist is a simple moisture sensor using a Raspberry Pi 3.
 * FC-28 (Moisture Sensor Probe)
 * Dual Output Module (Analog to Analog / Digital)
 * Jumper Wire Cables
+* Keyboard
+* Mouse
+* HDMI Cable
 
 #### Software
 * Rasbian OS (Currently Using Stretch 2017-11-29)
