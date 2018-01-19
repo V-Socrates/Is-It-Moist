@@ -3,13 +3,11 @@
 
 ## Table Of Contents
 1. [Description](#Description)
-2. [Required Hardware / Software](#Required-Hardware-/-Software)
-  2.1. [Hardware](#Hardware)
-  2.2. [Software](#Software)
-3. [Hardware Assembly](#Hardware-Assembly)
-4. [Software Setup](#Software-Setup)
-5. [Initial Startup](#Initial-Startup)
-6. [Comments](#Comments)
+2. [Required Hardware / Software](#required-hardware-/-software)
+3. [Hardware Assembly](#hardware-assembly)
+4. [Software Setup](#software-setup)
+5. [Initial Startup](#initial-startup)
+6. [Comments](#comments)
 
 
 ### Description
