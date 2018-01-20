@@ -9,7 +9,6 @@
 5. [Initial Startup](#initial-startup)
 6. [Resources](#resources)
 
-
 ### Description
 Is It Moist is a simple moisture sensor using a Raspberry Pi 3.
 
@@ -65,21 +64,24 @@ You are now ready to startup your Raspberry Pi.
 Now that you Micro SD card is setup it is time to boot up your Raspberry Pi. Connect your Micro SD card, power adapter, HDMI cable, keyboard, and mouse to your Raspberry Pi. Connect the other end of you HDMI cable to you a monitor / TV. The initial startup may take several minutes.
 
 After Booting into the OS, setup the WiFi. If you are connected to the internet using Ethernet you may skip this step. Select the WiFi button outlined in the image below.
+![alt text](https://raw.githubusercontent.com/V-Socrates/Is-It-Moist/master/Documentation/IMAGES-VIDEOS/Build%20Related/RPI1.png)
 
 Select your WiFi from the dropdown list.
+![alt text](https://raw.githubusercontent.com/V-Socrates/Is-It-Moist/master/Documentation/IMAGES-VIDEOS/Build%20Related/RPI2.png)
 
 Enter your WiFi password in the text field and click "OK". Allow a few moments for your Raspberry Pi to connect.
+![alt text](https://raw.githubusercontent.com/V-Socrates/Is-It-Moist/master/Documentation/IMAGES-VIDEOS/Build%20Related/RPI3.png)
 
 Open terminal highlighted in image and enter the following commands. The fist two commands may take time, so be patient.
+![alt text](https://raw.githubusercontent.com/V-Socrates/Is-It-Moist/master/Documentation/IMAGES-VIDEOS/Build%20Related/RPI4.png)
 
 ```
 wget https://raw.githubusercontent.com/V-Socrates/Is-It-Moist/master/Code/setup.sh
 sudo bash setup.sh $USER
 python IsItMoist.py
 ```
-    
 Congratulations your Is It Moist sensor is now operational.
-
+![alt text](https://raw.githubusercontent.com/V-Socrates/Is-It-Moist/master/Documentation/IMAGES-VIDEOS/Build%20Related/RPI5.png)
 
 ### Resources
 adafruit MCP3008 ([Site](https://learn.adafruit.com/raspberry-pi-analog-to-digital-converters/mcp3008) / [Repository](https://github.com/adafruit/Adafruit_Python_MCP3008))
@@ -87,4 +89,3 @@ adafruit MCP3008 ([Site](https://learn.adafruit.com/raspberry-pi-analog-to-digit
 [Raspberry Pi] Smarter Plants Tutorial ([Site](http://schiener.me/2015/raspberry-pi-smart-plant/) / [Repository](https://github.com/domschiener/smart-plant-raspberry))
 
 Raspberry Pi Plant Pot Moisture Sensor with Email Notification Tutorial ([Site](https://www.modmypi.com/blog/raspberry-pi-plant-pot-moisture-sensor-with-email-notification-tutorial) / [Repository](https://github.com/modmypi/Moisture-Sensor))
-
