@@ -24,6 +24,7 @@ Is It Moist is a simple moisture sensor using a Raspberry Pi 3.
 * [Dual Output Module (Analog to Analog / Digital)](https://raw.githubusercontent.com/V-Socrates/It-is-Moist/master/Documentation/IMAGES-VIDEOS/Build%20Related/Dual%20Output%20Module.jpg)
 * [Jumper Wire Cables](https://raw.githubusercontent.com/V-Socrates/It-is-Moist/master/Documentation/IMAGES-VIDEOS/Build%20Related/Jumper%20Wire.jpg)
 * [USB Keyboard](https://raw.githubusercontent.com/V-Socrates/It-is-Moist/master/Documentation/IMAGES-VIDEOS/Build%20Related/USB%20Keyboard.png)
+* [Monitor](https://raw.githubusercontent.com/V-Socrates/It-is-Moist/master/Documentation/IMAGES-VIDEOS/Build%20Related/Monitor.jpg) / [TV](https://raw.githubusercontent.com/V-Socrates/It-is-Moist/master/Documentation/IMAGES-VIDEOS/Build%20Related/TV.jpg)
 * [USB Mouse](https://raw.githubusercontent.com/V-Socrates/It-is-Moist/master/Documentation/IMAGES-VIDEOS/Build%20Related/USB%20Mouse.jpeg)
 * [HDMI Cable](https://raw.githubusercontent.com/V-Socrates/It-is-Moist/master/Documentation/IMAGES-VIDEOS/Build%20Related/HDMI%20Cable.jpg)
 #### Software
