@@ -53,7 +53,7 @@ From the displayed list select your Micro SD card and click "Continue".<br>
 ![alt text](https://raw.githubusercontent.com/V-Socrates/It-is-Moist/master/Documentation/IMAGES-VIDEOS/Build%20Related/Etcher2.PNG)
 
 After selecting your Raspbian OS and your Micro SD card, click "Flash!".<br>
-![alt text](https://raw.githubusercontent.com/V-Socrates/It-is-Moist/master/Documentation/IMAGES-VIDEOS/Build%20Related/Etcher1.PNG)
+![alt text](https://raw.githubusercontent.com/V-Socrates/It-is-Moist/master/Documentation/IMAGES-VIDEOS/Build%20Related/Etcher5.PNG)
 
 The flashing of the Raspbian OS may take several minutes depending on you system and Micro SD card. After it is completed you will see the following screen below.<br>
 ![alt text](https://raw.githubusercontent.com/V-Socrates/It-is-Moist/master/Documentation/IMAGES-VIDEOS/Build%20Related/Etcher4.PNG)
