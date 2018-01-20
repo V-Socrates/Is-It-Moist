@@ -1,6 +1,10 @@
 # `It is Moist`
 ###### `Moisture Detector`
 
+## Build Instructions Completed (Date: 1/20/2018)
+
+## Presentation Completed (Date: 1/15/2018)
+
 ## Current Progress Report (Date: 1/8/2018)
 ![alt text](https://github.com/V-Socrates/It-is-Moist/blob/master/Documentation/IMAGES-VIDEOS/Progress%20Report.jpg)
 
