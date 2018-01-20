@@ -60,5 +60,6 @@ The flashing of the Rasbian OS may take several minutes depending on you system 
 You are now ready to startup your Raspberry Pi.
 
 ### Initial Startup
+Now that you Micro SD card is setup it is time to boot up your Raspbery Pi. Connect your Micro SD card, power adapter, HDMI cable, keyboard, and mouse to your Raspberry Pi. Connect the other end of you HDMI cable to you a monitor / TV. The initial startup may take several minutes.
 
 ### Comments
