@@ -29,8 +29,13 @@ Is It Moist is a simple moisture sensor using a Raspberry Pi 3.
 * [HDMI Cable](https://raw.githubusercontent.com/V-Socrates/It-is-Moist/master/Documentation/IMAGES-VIDEOS/Build%20Related/HDMI%20Cable.jpg)
 #### Software
 * [Rasbian OS (Currently Using Stretch 2017-11-29)](https://drive.google.com/file/d/1Ecotum-11qHcblA57sbwOcbmJJJ9XkQF/view?usp=sharing)
-* [Etcher](https://github.com/V-Socrates/It-is-Moist/tree/master/Software/Etcher)
+* [Etcher](https://etcher.io/)
 ### Hardware Assembly
+Use the following design if you are building the curcuit with adafruit's T-Cobbler Plus
+![alt text](https://raw.githubusercontent.com/V-Socrates/It-is-Moist/master/Documentation/IMAGES-VIDEOS/Build%20Related/Is%20It%20Moist%20(T-Cobbler).png)
+
+Use the following design if you are building the curcuit without adafruit's T-Cobbler Plus
+![alt text](https://raw.githubusercontent.com/V-Socrates/It-is-Moist/master/Documentation/IMAGES-VIDEOS/Build%20Related/Is%20It%20Moist.jpg)
 
 ### Software Setup
 
