@@ -32,6 +32,6 @@ while True:
     print('Moisture Level: {0}%'.format(percent))
     print('*********************')
 
-    # Measure every second
+    # Measure every half second
     time.sleep(0.5)
     print('\033[H\033[J')
