@@ -36,8 +36,27 @@ Use the following design if you are building the curcuit with adafruit's T-Cobbl
 
 Use the following design if you are building the curcuit without adafruit's T-Cobbler Plus
 ![alt text](https://raw.githubusercontent.com/V-Socrates/It-is-Moist/master/Documentation/IMAGES-VIDEOS/Build%20Related/Is%20It%20Moist.jpg)
-
 ### Software Setup
+Now that the circuit is built, it is time to setup your Micro SD card. The first step is to download the [Raspbian OS](https://drive.google.com/file/d/1Ecotum-11qHcblA57sbwOcbmJJJ9XkQF/view?usp=sharing) and [Etcher](https://etcher.io/). Plugin your Micro SD card into your card reader and plug it into your computer and follow the steps below.
+
+Run Etcher and click "Select image".
+![alt text](https://raw.githubusercontent.com/V-Socrates/It-is-Moist/master/Documentation/IMAGES-VIDEOS/Build%20Related/Etcher1.PNG)
+
+Navigate to your downloaded Rasbian OS, select it and click "Open"
+![alt text](https://raw.githubusercontent.com/V-Socrates/It-is-Moist/master/Documentation/IMAGES-VIDEOS/Build%20Related/Etcher3.PNG)
+
+Now click "Change".
+![alt text](https://raw.githubusercontent.com/V-Socrates/It-is-Moist/master/Documentation/IMAGES-VIDEOS/Build%20Related/Etcher1.PNG)
+
+From the displayed list select your Micro SD card and click "Continue".
+![alt text](https://raw.githubusercontent.com/V-Socrates/It-is-Moist/master/Documentation/IMAGES-VIDEOS/Build%20Related/Etcher2.PNG)
+
+After selecting your Rasbian OS and your Micro SD card, click "Flash!".
+![alt text](https://raw.githubusercontent.com/V-Socrates/It-is-Moist/master/Documentation/IMAGES-VIDEOS/Build%20Related/Etcher1.PNG)
+
+The flashing of the Rasbian OS may take several minutes depending on you system and Micro SD card. After it is completed you will see the following screen below.
+![alt text](https://raw.githubusercontent.com/V-Socrates/It-is-Moist/master/Documentation/IMAGES-VIDEOS/Build%20Related/Etcher4.PNG)
+You are now ready to startup your Raspberry Pi.
 
 ### Initial Startup
 
