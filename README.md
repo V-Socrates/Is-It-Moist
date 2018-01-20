@@ -56,6 +56,7 @@ After selecting your Rasbian OS and your Micro SD card, click "Flash!".
 
 The flashing of the Rasbian OS may take several minutes depending on you system and Micro SD card. After it is completed you will see the following screen below.
 ![alt text](https://raw.githubusercontent.com/V-Socrates/It-is-Moist/master/Documentation/IMAGES-VIDEOS/Build%20Related/Etcher4.PNG)
+
 You are now ready to startup your Raspberry Pi.
 
 ### Initial Startup
