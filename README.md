@@ -1,5 +1,5 @@
-# It-is-Moist
-###### Moisture Detector
+# Is It Moist
+###### IOT Moisture Detector
 
 ## Table Of Contents
 1. [Description](#description)
