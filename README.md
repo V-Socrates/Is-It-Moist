@@ -72,11 +72,11 @@ Enter your WiFi password in the text field and click "OK". Allow a few moments f
 
 Open terminal highlighted in image and enter the following commands. The fist two commands may take time, so be patient.
 
-	```
-    wget https://raw.githubusercontent.com/V-Socrates/Is-It-Moist/master/Code/setup.sh
-    sudo bash setup.sh $USER
-    python IsItMoist.py
-	```
+```
+wget https://raw.githubusercontent.com/V-Socrates/Is-It-Moist/master/Code/setup.sh
+sudo bash setup.sh $USER
+python IsItMoist.py
+```
     
 Congratulations your Is It Moist sensor is now operational.
 
