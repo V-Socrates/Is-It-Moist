@@ -2,7 +2,7 @@
 ###### Moisture Detector
 
 ## Table Of Contents
-1. [Description](#Description)
+1. [Description](#description)
 2. [Required Hardware / Software](#required-hardware-/-software)
 3. [Hardware Assembly](#hardware-assembly)
 4. [Software Setup](#software-setup)
@@ -75,9 +75,11 @@ Open terminal highlighted in image and enter the following commands. The fist tw
     ```
     wget https://raw.githubusercontent.com/V-Socrates/Is-It-Moist/master/Code/setup.sh
     ```
+    
     ```
     sudo bash setup.sh $USER
     ```
+    
     ```
     python IsItMoist.py
     ```
@@ -87,5 +89,8 @@ Congratulations your Is It Moist sensor is now operational.
 
 ### Resources
 adafruit MCP3008 ([Site](https://learn.adafruit.com/raspberry-pi-analog-to-digital-converters/mcp3008) / [Repository](https://github.com/adafruit/Adafruit_Python_MCP3008))
+
 [Raspberry Pi] Smarter Plants Tutorial ([Site](http://schiener.me/2015/raspberry-pi-smart-plant/) / [Repository](https://github.com/domschiener/smart-plant-raspberry))
+
 Raspberry Pi Plant Pot Moisture Sensor with Email Notification Tutorial ([Site](https://www.modmypi.com/blog/raspberry-pi-plant-pot-moisture-sensor-with-email-notification-tutorial) / [Repository](https://github.com/modmypi/Moisture-Sensor))
+
