@@ -3,7 +3,7 @@
 
 ## Table Of Contents
 1. [Description](#description)
-2. [Required Hardware / Software](#required-hardware-/-software)
+2. [Required Hardware & Software](#required-hardware-&-software)
 3. [Hardware Assembly](#hardware-assembly)
 4. [Software Setup](#software-setup)
 5. [Initial Startup](#initial-startup)
@@ -13,7 +13,7 @@
 ### Description
 Is It Moist is a simple moisture sensor using a Raspberry Pi 3.
 
-### Required Hardware / Software
+### Required Hardware & Software
 #### Hardware
 * [Raspberry Pi 3 Model B](https://raw.githubusercontent.com/V-Socrates/It-is-Moist/master/Documentation/IMAGES-VIDEOS/Build%20Related/Raspberry%20Pi%203%20Model%20B.jpg)
 * [Raspberry Pi Power Adapter](https://raw.githubusercontent.com/V-Socrates/It-is-Moist/master/Documentation/IMAGES-VIDEOS/Build%20Related/Raspberry%20Pi%20Power%20Supply.jpg)
