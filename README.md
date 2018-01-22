@@ -33,12 +33,14 @@ Is It Moist is a simple moisture sensor using a Raspberry Pi 3.
 #### Miscellaneous
 * Internet Access (Ethernet / WiFi)
 ### Hardware Assembly
+##### Time Required: 5 - 10 Minutes
 Use the following design if you are building the circuit with adafruit's T-Cobbler Plus.<br>
 ![alt text](https://raw.githubusercontent.com/V-Socrates/It-is-Moist/master/Documentation/IMAGES-VIDEOS/Build%20Related/Is%20It%20Moist%20(T-Cobbler).png)
 
 Use the following design if you are building the circuit without adafruit's T-Cobbler Plus.<br>
 ![alt text](https://raw.githubusercontent.com/V-Socrates/It-is-Moist/master/Documentation/IMAGES-VIDEOS/Build%20Related/Is%20It%20Moist.jpg)
 ### Software Setup
+##### Time Required: 10 - 15 Minutes (Dependant On WiFi and Micro SD card Class)
 Now that the circuit is built, it is time to setup your Micro SD card. The first step is to download the [Raspbian OS](https://drive.google.com/file/d/1Ecotum-11qHcblA57sbwOcbmJJJ9XkQF/view?usp=sharing) and [Etcher](https://etcher.io/). Make sure to download the version that is made for your OS. Plugin your Micro SD card into your card reader and plug it into your computer and follow the steps below.
 
 Run Etcher and click "Select image".<br>
@@ -62,6 +64,7 @@ The flashing of the Raspbian OS may take several minutes depending on you system
 You are now ready to startup your Raspberry Pi.
 
 ### Initial Startup
+##### Time Required: 5 - 10 Minutes (Dependant On WiFi)
 Now that you Micro SD card is setup it is time to boot up your Raspberry Pi. Connect your Micro SD card, power adapter, HDMI cable, keyboard, and mouse to your Raspberry Pi. Connect the other end of you HDMI cable to you a monitor / TV. The initial startup may take several minutes.
 
 After Booting into the OS, setup the WiFi. If you are connected to the internet using Ethernet you may skip this step. Select the WiFi button outlined in the image below.<br>
